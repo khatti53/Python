@@ -1,0 +1,11 @@
+Python Objects and Data Structure basic
+Introduction to python DataTypes
+Name             Type      Description
+Integers          int        0,1,2
+Float             float      0.1,0.003
+Strings           str       'khadija','5'
+Booleans          boolean    True,False
+Dictionaries      dict       {'Name':'Khadija', 'Fruit':'Mango'}
+Lists             list      ['Apple',50,0.56,'56']
+Sets              set       {'A','b'}
+Tuples            tuple     ('apple','mango')
